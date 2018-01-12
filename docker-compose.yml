@@ -11,3 +11,8 @@ services:
     image: dydx/java-micro
     ports:
       - "8002:8002"
+  python:
+    build: python
+    image: dydx/python-micro
+    ports:
+      - "8003:8003"
