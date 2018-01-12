@@ -16,3 +16,8 @@ services:
     image: dydx/python-micro
     ports:
       - "8003:8003"
+  dotnet:
+    build: dotnet
+    image: dydx/dotnet-micro
+    ports:
+      - "8004:80"
