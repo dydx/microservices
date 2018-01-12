@@ -9,8 +9,8 @@ Just a bunch of really dumb "Hello, World" style APIs that have been Dockerized 
 4. visit the URLs
 
 # URLs (like anyone's ever going to use this):
-1. [http://localhost:8001](Golang)
-2. [http://localhost:8002](Java)
-3. [http://localhost:8003](Python)
-4. [http://localhost:8004](.NET)
-5. [http://localhost:8005](Node.JS)
+1. [Golang](http://localhost:8001)
+2. [Java](http://localhost:8002)
+3. [Python](http://localhost:8003)
+4. [.NET](http://localhost:8004)
+5. [Node.JS](http://localhost:8005)
