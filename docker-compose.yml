@@ -21,3 +21,8 @@ services:
     image: dydx/dotnet-micro
     ports:
       - "8004:80"
+  nodejs:
+    build: nodejs
+    image: dydx/nodejs-micro
+    ports:
+      - "8005:3000"
