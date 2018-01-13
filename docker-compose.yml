@@ -26,3 +26,8 @@ services:
     image: dydx/nodejs-micro
     ports:
       - "8005:3000"
+  ruby:
+    build: ruby
+    image: dydx/ruby-micro
+    ports:
+      - "8006:3000"
