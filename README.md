@@ -14,3 +14,4 @@ Just a bunch of really dumb "Hello, World" style APIs that have been Dockerized 
 3. [Python](http://localhost:8003)
 4. [.NET](http://localhost:8004)
 5. [Node.JS](http://localhost:8005)
+6. [Ruby](http://localhost:8006)
